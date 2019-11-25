@@ -1,3 +1,7 @@
+# 2019-11-25
+
+```Updated to SonarQube 8.0```
+
 # 2019-07-05
 
 ```Updated to SonarQube 7.9LTS```
